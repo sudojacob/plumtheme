@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .widgetdiv .content-box-head {
-  background: #5C6974 !important;
+  background: #585a62 !important;
   color: #CCC !important;
   padding-bottom: 1px !important;
   padding-top: 1px !important;
@@ -2053,7 +2053,7 @@ th {
     font-family: 'SourceSansProSemibold';
     font-weight: normal;
     border-bottom: 1px solid #5e5e5e;
-    background-color: #5C6974;
+    background-color: #585a62;
     color: #CCC;}
   .table > tbody + tbody {
     border-top: 2px solid #5e5e5e; }
@@ -4077,7 +4077,7 @@ tbody.collapse.in {
       line-height: 1.428571429;
       text-decoration: none;
       color: #CCC;
-      background-color: #5C6974;
+      background-color: #585a62;
       border: 1px solid rgba(23, 44, 56, 0.4);
       margin-left: -1px;
       cursor: pointer; }
@@ -4399,7 +4399,7 @@ a.thumbnail.active {
     color: #df8a13; }
 
 .alert-danger {
-	background-color: #5C6974;
+	background-color: #585a62;
 	border-color: #f00; }
   .alert-danger hr {
     border-top-color: #DA4829; }
@@ -4471,7 +4471,7 @@ a.thumbnail.active {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
 
 .progress-bar-info {
-  background-color: #5C6974; }
+  background-color: #585a62; }
   .progress-striped .progress-bar-info {
     background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
     background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
@@ -4687,7 +4687,7 @@ a.list-group-item-danger {
   border-bottom: 1px solid #b0b0b0;
   border-top-right-radius: 2px;
   border-top-left-radius: 2px;
-  background-color: #5C6974; }
+  background-color: #585a62; }
 
   .panel-heading > .dropdown .dropdown-toggle {
     color: inherit; }
@@ -5057,7 +5057,7 @@ button.close {
   padding-bottom:1px;
   border-bottom: 1px solid #4a4a4a;
   min-height: 16.42857px;
-  background-color: #5C6974;
+  background-color: #585a62;
   color: #CCC; }
 
 .modal-header .close {
@@ -5699,7 +5699,7 @@ html, body {
   height: 100%;
   font-family: 'SourceSansProRegular';
   scrollbar-width: thin;
-  scrollbar-color: #5C6974 #e3e3e3;
+  scrollbar-color: #585a62 #e3e3e3;
   background-color: #CCC;
 }
 
@@ -6205,7 +6205,7 @@ button.toggle-sidebar {
 .active-menu-title, .active-menu a {
   text-decoration: none;
   position: relative;
-  background-color: #24323a; }
+  background-color: #585a62; }
   .active-menu-title:before, .active-menu a:before {
     width: 3px; }
   .active-menu-title.active, .active-menu a.active {
@@ -6352,7 +6352,7 @@ label > input[type="radio"] {
 }
 
 #ipsec .ipsec-tab {
-	background-color: #5C6974 !important;
+	background-color: #585a62 !important;
 	color: #CCC !important;
 }
 
@@ -6509,7 +6509,7 @@ input[type="checkbox"].checkbox-switch:checked + i::before, input[type="checkbox
   padding-bottom: 1px;
   border-bottom: 1px solid #4a4a4a;
   min-height: 16.42857px;
-  background-color: #5C6974;
+  background-color: #585a62;
   color: #CCC;
 }
 
